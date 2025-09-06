@@ -16,8 +16,8 @@ Combino el **análisis de datos** con la **formulación y gestión de proyectos*
 
 ## 🛠️ Habilidades Técnicas  
 
-- **Data Visualization & BI:** ![Power BI]([https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black](https://drive.google.com/drive/folders/1HS4gfFv3gdUNv_TV9j-XtxIJmb-ZV0di?usp=drive_link))  
-- **Programación:** ![Python]([https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white](https://drive.google.com/drive/folders/13GzGgq7ZCHaSE7b4wB8wPHtKMN4aFjwT?usp=drive_link))  
+- **Data Visualization & BI:** ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+- **Programación:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 - **Bases de datos:** ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)  
 - **Spreadsheets:** ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white), Excel  
 
